@@ -1,0 +1,1 @@
+Esta sessão de estudos apresenta as Collections, Generics, List, LinkedList, Queue, Stack e Dictionary do C#. No final desta sessão, você deverá criar programas usando as referidas classes, seus respectivos métodos e propriedades.
