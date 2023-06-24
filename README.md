@@ -5,7 +5,7 @@
 Repositório da minha jornada na programação de sistemas, inspirado pela faculdade de Análise e Desenvolvimento de Sistemas na PUC Minas. Conteúdos, exercícios e projetos sobre algoritmos, lógica de programação, desenvolvimento web e mais. Clonar ou contribuir é bem-vindo!
 
 * ✔ [EIXO 1 - IMPLEMENTAÇÃO DE SISTEMAS DE SOFTWARE]
-* ✔ [EIXO 2 - ANÁLISE E PROJETO DE SISTEMAS DE SOFTWARE]
+* ✔ [EIXO 2 - ANÁLISE E PROJETO DE SISTEMAS DE SOFTWARE](https://github.com/ianevictoria/codejourney-ads-pucminas/tree/main/EIXO-2)
 * ✔ [EIXO 3 - PROCESSOS DE NEGÓCIO E DE DESENV. DE SOFTWARE]
 * ✔ [EIXO 4 - INFRAESTRUTURA PARA SISTEMAS DE SOFTWARE]
 * ✔ [EIXO 5 - EMPREENDEDORISMO E INOVAÇÃO COM SISTEMAS DE SOFTWARE]
