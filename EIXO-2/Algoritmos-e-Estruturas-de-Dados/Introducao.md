@@ -16,6 +16,8 @@ O vídeo abaixo apresenta a linguagem C# e o ambiente Replit.
 
 Veja o conjunto de slides utilizado nesse vídeo.
 
+[C#-E-REPLIT](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/unidade01-C%23-e-Replit.pdf)
+
 
 
 **EXERCÍCIO:** 
