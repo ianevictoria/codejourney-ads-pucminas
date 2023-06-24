@@ -39,7 +39,7 @@ As principais estruturas de dados são baseadas em *arrays* e o vídeo abaixo 
 
 Veja o conjunto de slides utilizado neste vídeo:
 
-[unidade01s01b_arrays (1).pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b44d6c8-ee5e-4961-9bae-54e4a9bff34f/unidade01s01b_arrays_(1).pdf)
+[Arrays](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/arrays.pdf)
 
 **EXERCÍCIO:**  
 
