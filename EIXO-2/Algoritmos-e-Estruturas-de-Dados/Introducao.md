@@ -11,12 +11,12 @@ Este microfundamento utiliza a [linguagem C#](https://docs.microsoft.com/pt-br/
 O vídeo abaixo apresenta a linguagem C# e o ambiente Replit. 
 
 
-
+[C# e Replit - Video Aula](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/VIDEO-AULAS/C%20E%20REPLIT.mp4)
 
 
 Veja o conjunto de slides utilizado nesse vídeo.
 
-[C#-E-REPLIT](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/unidade01-C%23-e-Replit.pdf)
+[C# e Replit - PDF](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/unidade01-C%23-e-Replit.pdf)
 
 
 
