@@ -1,1 +1,0 @@
-Esta sessão de estudos apresenta as Collections Queue, Stack e Hashtable do C#. No final desta sessão, você deverá criar programas usando as referidas classes, seus respectivos métodos e propriedades.
