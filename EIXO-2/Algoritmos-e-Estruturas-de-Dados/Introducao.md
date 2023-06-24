@@ -39,6 +39,8 @@ Agora vamos recordar o conceito de *array* que introduz os conceitos de lista,
 
 As principais estruturas de dados são baseadas em *arrays* e o vídeo abaixo recorda este conceito na linguagem C#:
 
+[VIDEO]
+
 Veja o conjunto de slides utilizado neste vídeo:
 
 [Arrays](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/arrays.pdf)
@@ -65,24 +67,26 @@ Veja o conjunto de slides utilizado nesse vídeo.
 
 Compreendido que uma lista é um objeto contendo um *array*, um contador e métodos para inserir/remover em qualquer posição, apresentaremos mais duas estruturas de dados: pilha e fila. Tais estruturas são tipos específicos de lista. A pilha garante que o primeiro elemento inserido será o último a ser removido e, consequentemente, o último elemento inserido será o primeiro a ser removido. Na fila, temos que o primeiro elemento inserido será sempre o primeiro a ser removido.
 
-**Os 4 vídeos abaixo apresentam os conceitos de pilha e fila.** **É interessante que o aluno tente fazer os exercícios propostos antes de assistir os videos de correção:**
+<h3>📚 Os 4 vídeos abaixo apresentam os conceitos de pilha e fila.</h3>
 
-Conceito de pilha e um exercicio:
+[Conceito de Pilha](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/VIDEO-AULAS/CONCEITO%20DE%20PILHA.mp4)
 
-https://drive.google.com/file/d/1KXyGPuRz_2M5sDmNs5QuCTsC8OTvbNXm/view?usp=share_link
-
-Correção do exercicio proposto:
+[Conceito de Pilha - Exercício]
 https://drive.google.com/file/d/1QpuQi_22TO2js2n5hLG1rJEq2Jgg8Koq/view?usp=share_link
 
-Conceito de fila e um exercício:
+[Conceito de Fila]
 https://drive.google.com/file/d/1tx4Qu7Atu69_O2XLTwgcfX4I7CkZw-Jm/view?usp=share_link
 
-Correção do exercicio proposto:
+[Conceito de Fila - Exercício]
 https://drive.google.com/file/d/1DF4UY0plH2oObo2YHCWWWtFVXhzure5B/view?usp=share_link
 
 Veja o conjunto de [s](https://pucminas.instructure.com/courses/68976/files/6598561?wrap=1)lides utilizado nesses vídeos.
 
 [Conceito Pilha e Fila](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/Conceito-Pilha-Fila.pdf)
+
+🚨 **Observação: tente fazer os exercícios propostos antes de assistir os videos de correção!** 
+
+<img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="300">
 
 **EXERCÍCIO:** 
 
