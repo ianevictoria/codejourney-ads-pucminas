@@ -74,8 +74,7 @@ Compreendido que uma lista é um objeto contendo um *array*, um contador e mét
 [Conceito de Pilha - Exercício]
 https://drive.google.com/file/d/1QpuQi_22TO2js2n5hLG1rJEq2Jgg8Koq/view?usp=share_link
 
-[Conceito de Fila]
-https://drive.google.com/file/d/1tx4Qu7Atu69_O2XLTwgcfX4I7CkZw-Jm/view?usp=share_link
+[Conceito de Fila](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/VIDEO-AULAS/CONCEITO%20DE%20FILA.mp4)
 
 [Conceito de Fila - Exercício]
 https://drive.google.com/file/d/1DF4UY0plH2oObo2YHCWWWtFVXhzure5B/view?usp=share_link
