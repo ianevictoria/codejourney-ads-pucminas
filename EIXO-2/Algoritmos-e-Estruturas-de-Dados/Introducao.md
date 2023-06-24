@@ -58,7 +58,7 @@ https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=shari
 
 Veja o conjunto de slides utilizado nesse vídeo.
 
-[unidade01s01c_conceitoLista.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c71423a-b418-497e-8010-977a4f4604f3/unidade01s01c_conceitoLista.pdf)
+[Conceito de Lista](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/Conceito-Lista.pdf)
 
 Compreendido que uma lista é um objeto contendo um *array*, um contador e métodos para inserir/remover em qualquer posição, apresentaremos mais duas estruturas de dados: pilha e fila. Tais estruturas são tipos específicos de lista. A pilha garante que o primeiro elemento inserido será o último a ser removido e, consequentemente, o último elemento inserido será o primeiro a ser removido. Na fila, temos que o primeiro elemento inserido será sempre o primeiro a ser removido.
 
@@ -79,7 +79,7 @@ https://drive.google.com/file/d/1DF4UY0plH2oObo2YHCWWWtFVXhzure5B/view?usp=share
 
 Veja o conjunto de [s](https://pucminas.instructure.com/courses/68976/files/6598561?wrap=1)lides utilizado nesses vídeos.
 
-[unidade01s01d_conceitoPilhaFila.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c52df73-449b-48dc-af79-57529a3b5d99/unidade01s01d_conceitoPilhaFila.pdf)
+[Conceito Pilha e Fila](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/Conceito-Pilha-Fila.pdf)
 
 **EXERCÍCIO:** 
 
