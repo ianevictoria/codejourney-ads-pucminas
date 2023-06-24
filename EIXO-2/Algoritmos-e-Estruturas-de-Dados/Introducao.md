@@ -51,17 +51,17 @@ Agora, faça um programa que leia a nota e o nome de ***n*** alunos e mostrar 
 
 A resposta desse exercício será diferente para cada aluno. Aqui está o [gabarito.](https://replit.com/@maxdovalmachado/Exercicio01Array) proposto para esse exercício e ele é explicado no vídeo abaixo.
 
-[Exercício - Arrays](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/VIDEO-AULAS/EXERCICIO%201%20-%20ARRAYS%20(1).mp4)
+[Arrays - Exercício](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/VIDEO-AULAS/EXERCICIO%201%20-%20ARRAYS%20(1).mp4)
 
 <h3>📚 CONCEITOS DE LISTA, PILHA E FILA</h3>
 
 A primeira estrutura de dados abordada neste microfundamento é a **lista** conforme mostrado no vídeo abaixo. 
-https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=sharing
-[](https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=sharing)
+
+[Conceito de Lista - Video Aula](https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=sharing)
 
 Veja o conjunto de slides utilizado nesse vídeo.
 
-[Conceito de Lista](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/Conceito-Lista.pdf)
+[Conceito de Lista - PDF](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/Conceito-Lista.pdf)
 
 Compreendido que uma lista é um objeto contendo um *array*, um contador e métodos para inserir/remover em qualquer posição, apresentaremos mais duas estruturas de dados: pilha e fila. Tais estruturas são tipos específicos de lista. A pilha garante que o primeiro elemento inserido será o último a ser removido e, consequentemente, o último elemento inserido será o primeiro a ser removido. Na fila, temos que o primeiro elemento inserido será sempre o primeiro a ser removido.
 
