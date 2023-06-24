@@ -39,11 +39,11 @@ Agora vamos recordar o conceito de *array* que introduz os conceitos de lista,
 
 As principais estruturas de dados são baseadas em *arrays* e o vídeo abaixo recorda este conceito na linguagem C#:
 
-[VIDEO]
+[Arrays - Video Aula](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/VIDEO-AULAS/ARRAYS.mp4)
 
 Veja o conjunto de slides utilizado neste vídeo:
 
-[Arrays](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/arrays.pdf)
+[Arrays - PDF](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/arrays.pdf)
 
 **EXERCÍCIO:**  
 
