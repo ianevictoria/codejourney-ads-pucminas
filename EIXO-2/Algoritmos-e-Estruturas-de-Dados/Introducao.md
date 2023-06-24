@@ -21,8 +21,6 @@ Veja o conjunto de slides utilizado nesse vídeo.
 
 [C# e Replit - PDF](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/PDFs/unidade01-C%23-e-Replit.pdf)
 
-
-
 **EXERCÍCIO:** 
 
 Agora, faça o exercício solicitado no qual você deve abrir o ambiente Replit, criar e compilar o programa para **Somar Dois Números**.
@@ -53,7 +51,7 @@ Agora, faça um programa que leia a nota e o nome de ***n*** alunos e mostrar 
 
 A resposta desse exercício será diferente para cada aluno. Aqui está o [gabarito.](https://replit.com/@maxdovalmachado/Exercicio01Array) proposto para esse exercício e ele é explicado no vídeo abaixo.
 
-https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=share_link
+[Exercício - Arrays](https://github.com/ianevictoria/codejourney-ads-pucminas/blob/main/EIXO-2/VIDEO-AULAS/EXERCICIO%201%20-%20ARRAYS%20(1).mp4)
 
 <h3>📚 CONCEITOS DE LISTA, PILHA E FILA</h3>
 
