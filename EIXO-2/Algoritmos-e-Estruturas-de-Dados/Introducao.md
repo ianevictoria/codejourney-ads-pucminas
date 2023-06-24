@@ -30,12 +30,11 @@ Após a conclusão desse exercício clique e verifique a [correção da ativida
 
 ---
 
-O restante desta sessão recorda o conceito de *array* e introduz os conceitos de lista, pilha e fila.
+<h3>💭 RECORDANDO ARRAYS</h3>
 
-**RECORDANDO *ARRAYS***
+Agora vamos recordar o conceito de *array* que introduz os conceitos de lista, pilha e fila.
 
 As principais estruturas de dados são baseadas em *arrays* e o vídeo abaixo recorda este conceito na linguagem C#:
-
 
 Veja o conjunto de slides utilizado neste vídeo:
 
@@ -51,11 +50,12 @@ A resposta desse exercício será diferente para cada aluno. Aqui está o [gaba
 
 https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=share_link
 
-**CONCEITOS DE LISTA, PILHA E FILA**
+<h3>📚 CONCEITOS DE LISTA, PILHA E FILA</h3>
 
 A primeira estrutura de dados abordada neste microfundamento é a **lista** conforme mostrado no vídeo abaixo. 
 https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=sharing
 [](https://drive.google.com/file/d/1qYqmvoGJhbMVcsftrYV-m36aN9isM-tZ/view?usp=sharing)
+
 Veja o conjunto de slides utilizado nesse vídeo.
 
 [unidade01s01c_conceitoLista.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c71423a-b418-497e-8010-977a4f4604f3/unidade01s01c_conceitoLista.pdf)
