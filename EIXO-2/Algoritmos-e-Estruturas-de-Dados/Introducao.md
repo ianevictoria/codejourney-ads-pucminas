@@ -1,3 +1,6 @@
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?color=DBB6EEFF&size=28&duration=7200&center=true&vCenter=true&width=1000&lines=Introdução)](https://git.io/typing-svg)
+
+
 Esta sessão de estudos introduz e contextualiza nosso microfundamento, conectando-o com outros microfundamentos vistos anteriormente. Em especial, Algoritmos e Abstração de Dados e Algoritmos e Lógica de Programação. No final desta sessão, você deverá:
 
 - ✔ Recordar a linguagem C# e o ambiente de desenvolvimento Replit;
