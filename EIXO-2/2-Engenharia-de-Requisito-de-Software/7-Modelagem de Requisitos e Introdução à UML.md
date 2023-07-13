@@ -47,3 +47,18 @@ Aprenda mais sobre os motivos do uso da UML assistindo o seguinte vídeo:
 Recomenda-se a leitura do capítulo introdutório sobre UML do seguinte livro disponível na biblioteca virtual da PUCMinas. A numeração de capítulos pode variar de edição para edição.
 
 BEZERRA, Eduardo. Princípios de Análise e Projeto de Sistemas com UML. São Paulo: Elsevier, 2006.
+
+ATIVIDADE
+
+O Diagrama de Casos de Uso UML se enquadra em qual categoria de Diagramas UML? (Marque a opção correta).
+
+Interação
+Comportamental
+Elicitação
+Estrutural
+
+RESPOSTA CERTA
+
+Comportamental
+Resposta correta.
+Resposta Correta.  Os diagramas de Comportamento enfatizam a visão dinâmica como é o caso do Diagrama de Caso de Uso.
